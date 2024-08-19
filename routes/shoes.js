@@ -11,6 +11,3 @@ router.delete('/:id', deleteShoe);
 
 
 module.exports = router;
-
-
-
